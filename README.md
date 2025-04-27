@@ -37,3 +37,6 @@ Vanilla JavaScript — For timer logic, event handling, and UI interactivity
 
 #output:
 
+![Image](https://github.com/user-attachments/assets/573872ae-b060-4503-8a9e-9be38ceb4882)
+![Image](https://github.com/user-attachments/assets/81280a2d-186a-41b8-a45f-d28ffc51be4e)
+
